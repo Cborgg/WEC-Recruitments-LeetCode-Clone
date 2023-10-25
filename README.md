@@ -3,7 +3,7 @@ FireCode is the name of my LeetCode clone, and can be used as a platform for dev
 
 # Demo
 
-You can see the live demo of website at https://fire-code.vercel.app <br>
+Live demo - https://fire-code.vercel.app <br>
 Video - https://drive.google.com/file/d/1-d5uUOTuIyk4YiOlJ5rYNs_h_V6ylLfS/view?usp=sharing
 
 # Installation
